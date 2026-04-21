@@ -13,6 +13,8 @@ We will use Dr. Hans Hofmann’s “credit-g” dataset, available on OpenML. Ou
 ├── data/
 │   ├── raw/
 │   └── preprocessed/
+├── models/
+│   └──preprocessor.joblib
 ├── notebooks/
 │   ├── 01_eda.ipynb
 │   ├── 02_preprocessing.ipynb
